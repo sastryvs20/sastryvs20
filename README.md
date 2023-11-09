@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Someswara Sastry Vadlamani</h1>
 <h3 align="center">Scholar at SRM University || Former AI intern @Appinsource</h3>
 
-- 🌱 I’m currently learning **Generative AI, GAN's**
+- 🌱 I’m currently learning **Computer vision , Generative AI, GAN's**
 
 - 💬 Ask me about **Deep Learning and Computer vision.**
 
