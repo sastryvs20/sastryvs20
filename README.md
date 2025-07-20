@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Someswara Sastry Vadlamani</h1>
-<h3 align="center">Scholar at SRM University || Former AI intern @Appinsource</h3>
+<h3 align="center">ML Engineer @Spora AI</h3>
 
-- 🌱 I’m currently learning **Generative AI , LLMs**
+- 🌱 I’m currently Building **VoiceAI** systems
 
-- 💬 Ask me about **Deep Learning and Computer vision.**
+- 💬 Ask me about **Deep Learning, Natural Language Processing and Computer Vision**
 
 - 📫 Reach me at **sastryvs20@gmail.com**
 
